@@ -1,2 +1,4 @@
 # JavaSelenium-Repo1
-This is a test Repository for practising Java Selenium.
+
+Test Repository for practising Git and Java Selenium.
+Please treat it as a test repo only.
